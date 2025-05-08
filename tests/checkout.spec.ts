@@ -4,7 +4,7 @@ import { AddToCart } from '../pages/addToCart.page';
 import { Checkout } from '../pages/checkout.page';
 import { data } from '../utils/testData';
 
-test.describe('Sauce Demo Tests', () => {
+test.describe('Checkout', () => {
   let login: LoginPage;
   let cart: AddToCart;
   let checkout : Checkout;

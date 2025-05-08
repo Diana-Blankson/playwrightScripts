@@ -3,7 +3,7 @@ import { LoginPage } from '../pages/login.page';
 import { AddToCart } from '../pages/addToCart.page';
 import { data } from '../utils/testData';
 
-test.describe('Sauce Demo Tests', () => {
+test.describe('Add to Cart', () => {
   let login: LoginPage;
   let cart: AddToCart;
 
