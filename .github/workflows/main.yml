@@ -39,4 +39,4 @@ jobs:
         with:
           name: junit-report
           path: testResults.xml
-          retention-days: 30
+          reporter: jest-junit
