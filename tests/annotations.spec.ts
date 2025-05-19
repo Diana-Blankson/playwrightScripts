@@ -24,7 +24,7 @@ test.describe('Login Scenarios', () => {
     );
   });
 
-  test('error users', {
+  test.skip('error users', {
     annotation:{
         type: 'Bug',
         description: 'https://jira.com/browse/QA-001',

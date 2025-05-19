@@ -1,0 +1,6 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="7.021997000000001">
+<testsuite name="signUp.spec.ts" timestamp="2025-05-12T10:57:16.760Z" hostname="chromium" tests="1" failures="0" skipped="0" time="6.112" errors="0">
+<testcase name="Sign Up › User sign up" classname="signUp.spec.ts" time="6.112">
+</testcase>
+</testsuite>
+</testsuites>
